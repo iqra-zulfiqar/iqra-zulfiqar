@@ -11,6 +11,13 @@
 
 - 📫 How to reach me **iqra07zulfiqar@gmail.com**
 
+- ☕ Beyond Code
+When I'm not coding, you'll find me enjoying a good cup of coffee ☕ or diving into an engaging book 📚.</br>
+
+
+📩 Let's Connect
+I'm always open to collaboration and learning new technologies. Feel free to explore my repositories and reach out!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iqra zulfiqar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra zulfiqar" height="30" width="40" /></a>
