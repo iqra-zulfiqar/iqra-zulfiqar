@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Iqra Zulfiqar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Personal Porfolio Website**
+- 🔭 I’m currently working on Full-Stack development **(MERN)**
 
 - 🌱 I’m currently learning **React.js**
 
