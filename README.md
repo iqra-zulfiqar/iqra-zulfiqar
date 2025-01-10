@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iqra-zulfiqar](https://github.com/iqra-zulfiqar)
 
-- 💬 Ask me about **Html, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.Js and MongoDB **
+- 💬 Ask me about **Html, CSS, JavaScript, Tailwind CSS, React.js, Node.js, Express.Js and MongoDB**
 
 - 📫 How to reach me **iqra07zulfiqar@gmail.com**
 
